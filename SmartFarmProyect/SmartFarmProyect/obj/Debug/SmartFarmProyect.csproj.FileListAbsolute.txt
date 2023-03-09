@@ -1,0 +1,13 @@
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\bin\Debug\SmartFarmProyect.exe.config
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\bin\Debug\SmartFarmProyect.exe
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\bin\Debug\SmartFarmProyect.pdb
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.FrmPlantas.resources
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.FrmAnimales.resources
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.FrmControlPanel.resources
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.Properties.Resources.resources
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.csproj.GenerateResource.cache
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.exe
+C:\Users\Estudiantes\source\repos\SmartFarmProyect\SmartFarmProyect\obj\Debug\SmartFarmProyect.pdb
